@@ -29,7 +29,7 @@ const Portfolio = () => {
         </div>
       </div>
 
-      <div className="grid grid-cols-3 gap-6">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
         <div className="rounded-xl bg-black/40 overflow-hidden shadow-xl z-1">
           <a href="/" className="group col-span-3">
             <img
